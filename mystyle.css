@@ -74,7 +74,7 @@ label #b{
         width: 100%;
         top: 50px;
         left:-100%;
-        background:#3c453c;
+        background-color:#3c453c;
         text-align: left;
         transition:.8s;
         height: 100vh;
